@@ -1,0 +1,3 @@
+.imagebg:not(.image--light) span {
+  color: #393939;
+} /*! Place your custom styles here */

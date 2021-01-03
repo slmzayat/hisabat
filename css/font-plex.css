@@ -1,0 +1,37 @@
+body {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.menu > li {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.btn,
+.btn__text,
+button {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+h5 {
+  font-weight: 500;
+}
+
+.bar-1 .menu-horizontal > li > .dropdown__trigger,
+.bar-1 .menu-horizontal > li > a {
+  font-weight: 500;
+}
